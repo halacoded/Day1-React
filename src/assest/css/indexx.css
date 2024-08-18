@@ -31,3 +31,8 @@
   display: flex;
   gap: 5px;
 }
+
+.Menu-container:hover {
+  background-color: lightblue;
+  transform: scale(1.1);
+}
