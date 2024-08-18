@@ -1,0 +1,33 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  gap: 5px;
+  margin: 90px;
+}
+
+.resutrantImage {
+  height: 300px;
+  width: 300px;
+}
+.menuImage {
+  height: 150px;
+  width: 150px;
+}
+.Menu-container {
+  display: flex;
+  justify-items: center;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid white;
+
+  padding: 10px;
+}
+
+.Menu-section {
+  background-color: grey;
+  display: flex;
+  gap: 5px;
+}
